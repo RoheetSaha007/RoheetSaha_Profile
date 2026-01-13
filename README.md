@@ -65,24 +65,22 @@ SOC estimation, current/voltage protection, <5% RMS error.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png">
 
 # GitHub Analytics
+##  GitHub Streaks
+[![GitHub Streak](https://streak-stats.demolab.com?user=RoheetSaha007&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-## GitHub Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=RoheetSaha007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## GitHub Stats  
-![Roheet's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoheetSaha007&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
+## GitHub Stats
+![Roheet's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoheetSaha007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-## Most Used Languages  
+
+---## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoheetSaha007&layout=compact&theme=tokyonight&hide_border=true)
 
----
+## 🏆 GitHub Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=RoheetSaha007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
-## GitHub Achievements  
-![trophy](https://github-profile-trophy.vercel.app/?username=RoheetSaha007&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true)
+
 
 ---
 
