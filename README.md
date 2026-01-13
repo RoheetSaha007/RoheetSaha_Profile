@@ -84,4 +84,7 @@ https://www.linkedin.com/in/roheet-saha-536962286
 
 🌐 Portfolio:
 https://roheetportfolioece-cse.vercel.app/
+## 📈 GitHub Contribution Graph
+
+![Roheet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoheetSaha007&bg_color=0d1117&color=ffffff&line=0ef1ff&point=00d9ff&area=true&hide_border=true)
 
