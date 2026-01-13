@@ -45,8 +45,7 @@ Hybrid IR + Ultrasonic sensing, real-time alerts, <0.25s response time.
 
 # GitHub Analytics
 
-### GitHub Streak  
-![Streak](https://streak-stats.demolab.com?user=RoheetSaha007&theme=tokyonight&hide_border=true)
+
 
 ---
 
@@ -60,8 +59,6 @@ Hybrid IR + Ultrasonic sensing, real-time alerts, <0.25s response time.
 
 ---
 
-### GitHub Achievements  
-![Trophy](https://github-profile-trophy.vercel.app/?username=RoheetSaha007&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true)
 
 ---
 
