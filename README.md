@@ -37,9 +37,11 @@ Hybrid IR + Ultrasonic sensing, real-time alerts, <0.25s response time.
 **LinkedIn:** https://www.linkedin.com/posts/roheetsaha7_radartechnology-embeddedsystems-coreelectronics-activity-7342854902940880896-y8EF
 
 ---
-
-## Tech Stack  
+# Tech Stack  
 ![Tech Icons](https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,express,mongodb,mysql,aws,git,github,vercel,bootstrap,figma,vscode)
+
+---
+
 
 ---
 
