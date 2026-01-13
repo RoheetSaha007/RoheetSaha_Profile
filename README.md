@@ -65,7 +65,8 @@ Hybrid IR + Ultrasonic sensing, real-time alerts, <0.25s response time.
 
 ## Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/RoheetSaha007/RoheetSaha007/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/RoheetSaha007/RoheetSaha007/output/github-contribution-grid-snake.svg)
+
 
 
 
