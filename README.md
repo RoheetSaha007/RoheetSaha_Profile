@@ -43,7 +43,7 @@ Hybrid IR + Ultrasonic sensing, real-time alerts, <0.25s response time.
 
 ---
 
-# GitHub Analytics  
+# GitHub Analytics
 
 ### GitHub Streak  
 ![Streak](https://streak-stats.demolab.com?user=RoheetSaha007&theme=tokyonight&hide_border=true)
@@ -51,25 +51,23 @@ Hybrid IR + Ultrasonic sensing, real-time alerts, <0.25s response time.
 ---
 
 ### GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=RoheetSaha007&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RoheetSaha007&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ### Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoheetSaha007&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RoheetSaha007&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### GitHub Achievements  
-![Trophy](https://github-profile-trophy.vercel.app/?username=RoheetSaha007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+![Trophy](https://github-profile-trophy.vercel.app/?username=RoheetSaha007&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true)
 
 ---
 
-## Contribution Snake  
-> Enable GitHub Actions to generate this  
-![Snake](https://raw.githubusercontent.com/RoheetSaha007/RoheetSaha007/output/github-contribution-grid-snake-dark.svg)
+### Contribution Snake  
+![Snake animation](https://raw.githubusercontent.com/RoheetSaha007/RoheetSaha007/output/github-contribution-grid-snake-dark.svg)
 
----
 
 ## Profile Views  
 ![Visitor Count](https://komarev.com/ghpvc/?username=RoheetSaha007&label=Profile%20Views&color=0e75b6&style=flat)
